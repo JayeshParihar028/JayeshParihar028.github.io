@@ -6,6 +6,12 @@ Welcome to my portfolio! Here you will find detailed information about my profes
 
 Hello, I'm Jayesh Parihar, a seasoned Sales & Business Development professional specializing in lead generation, client acquisition, and CRM management. Based in Vapi, India, I hold a Bachelors in Business Administration with a focus on Marketing from Parul University. With over two years of experience in B2B and B2C sales, I have a proven track record of driving revenue growth and building strong client relationships.
 
+# Education
+
+**Parul University** (Vadodara, Gujarat, India)
+- Bachelors in Business Administration – Marketing
+- Passout Year: 2022
+
 # Experience
 
 ## 99Acres.com - Ahmedabad, Gujarat (Nov 2023 – Jul 2024)
@@ -42,12 +48,6 @@ Hello, I'm Jayesh Parihar, a seasoned Sales & Business Development professional 
 - Multi-tasking and Prioritization
 - MS Office Proficiency
 - Digital Marketing Services
-
-# Education
-
-**Parul University** (Vadodara, Gujarat, India)
-- Bachelors in Business Administration – Marketing
-- Passout Year: 2022
 
 # Certifications
 
