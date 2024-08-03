@@ -9,7 +9,7 @@ Hello, I'm Jayesh Parihar, a seasoned Sales & Business Development professional 
 # Education
 
 **Parul University** (Vadodara, Gujarat, India)
-- Bachelors in Business Administration – Marketing
+- Bachelor's in Business Administration – Marketing
 - Passout Year: 2022
 
 # Experience
