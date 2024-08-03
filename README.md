@@ -45,8 +45,9 @@ Hello, I'm Jayesh Parihar, a seasoned Sales & Business Development professional 
 - Digital Marketing Services
 
 # Education
+
 Parul University - Vadodara, Gujarat
-Bachelors in Business Administration – Marketing, 
+Bachelors in Business Administration – Marketing
 Mar 2022
 
 # Certifications
