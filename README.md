@@ -53,6 +53,7 @@ Hello, I'm Jayesh Parihar, a seasoned Sales & Business Development professional 
 
 **LinkedIn Sales Navigator**
 -  LinkedIn – Issued Jul 2024
+  
 **Inbound**
 - HubSpot – Issued Apr 2024
 
