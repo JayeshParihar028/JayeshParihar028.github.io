@@ -1,5 +1,4 @@
-# Jayesh Parihar's 
-Sales and Business Development Portfolio
+# Sales and Business Development
 
 Welcome to my portfolio! Here you will find detailed information about my professional experience, skills, and achievements in sales and business development.
 
