@@ -51,8 +51,9 @@ Hello, I'm Jayesh Parihar, a seasoned Sales & Business Development professional 
 
 # Certifications
 
+- **HubSpot Sales Hub Software**: HupSpot Academy – Issued Aug 2024
 - **LinkedIn Sales Navigator**: LinkedIn – Issued Jul 2024
-- **Inbound**: HubSpot – Issued Apr 2024
+- **Inbound**: HubSpot Acadamy – Issued Apr 2024
 
 # Contact
 
